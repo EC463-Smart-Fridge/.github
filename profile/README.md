@@ -1,5 +1,9 @@
 # FridgeBuddy: Your Waste-Reducing Smart Fridge Companion
 
+## Under Construction
+🚧 This is a BU senior engineering capstone project for the Fall 2023 and Spring 2024 semesters and is currently under development. 🚧
+
+## Introduction
 The FridgeBuddy is an economical grocery management solution that transforms a standard refrigerator into a smart-fridge.
 
 Its functionality and features consist of:
